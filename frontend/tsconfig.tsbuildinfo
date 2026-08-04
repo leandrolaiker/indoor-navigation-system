@@ -1,0 +1,1 @@
+{"root":["./src/App.tsx","./src/main.tsx","./src/vite-env.d.ts","./src/api/mapApi.ts","./src/components/CanvasEditor.tsx","./src/components/NamePromptModal.tsx","./src/components/Toolbar.tsx","./src/pages/MapEditorPage.tsx","./src/pages/MapListPage.tsx","./src/types/index.ts"],"version":"5.9.3"}
